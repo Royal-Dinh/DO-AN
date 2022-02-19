@@ -1,0 +1,42 @@
+
+/*===========HEADER==============*/
+
+.style-grid [class^="col"] {
+    background: #ccc;
+    border: 1px solid #fff;
+}
+.style-grid [class^="col"]:hover {
+    background: red;
+}
+
+#logo {
+    width: 150px;
+}
+
+ #info a{
+    width: 30px 40px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    color: greenyellow;
+    text-decoration: none;
+    background-color: #fff;
+    border-right: 1px solid #a2a2a2;
+ }
+ 
+ hr {
+     color: #a2a2a2;
+ }
+ /* ===========FOOTER========== */
+ #logo-duoi {
+     width: 100px;
+ }
+.info-1 {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+footer h2 {
+    margin-bottom: 50px;
+}
+
